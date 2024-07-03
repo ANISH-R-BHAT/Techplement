@@ -1,0 +1,18 @@
+Commands:
+
+1) To create the quiz- createQuiz quiz_name
+2) To add a question- addQuestion quiz_name "question" "option 1" "option 2" "option 3" "option 4" opttion_no
+3) To take the quiz- takeQuiz quiz_name
+4) To exit- exit
+
+Example:
+
+createQuiz TechQuiz
+
+addQuestion TechQuiz "What was the fastest growing web browser in 2020?" "Microsoft Edge" "Firefox" "DuckDuckGo" "Internet Explorer" 1
+
+addQuestion TechQuiz "What does SMS stand for?" "Short meter service" "Share more stories" "Secure messages service" "Short message service" 4
+
+takeQuiz TechQuiz
+
+exit
