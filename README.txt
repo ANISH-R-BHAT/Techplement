@@ -1,0 +1,1 @@
+This is a mini-project named Command Line Quiz Generator. Here, users can create quiz, add questions, options and correct answers to it. Later, user can take the quiz to test the knowledge. At the end, the quiz score is displayed.
